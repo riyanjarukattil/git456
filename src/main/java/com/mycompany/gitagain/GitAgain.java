@@ -11,6 +11,6 @@ package com.mycompany.gitagain;
 public class GitAgain {
 
     public static void main(String[] args) {
-        System.out.println("Happy !");
+        System.out.println("Happy christmas!");
     }
 }
